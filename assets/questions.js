@@ -40,3 +40,14 @@ var quiz = {
         ],
         a : 0
       },
+      {
+        q : "Which of these is a data dype?",
+        o : [
+          "Number",
+          "String",
+          "Boolean",
+          "All of the above"
+        ],
+        a : 3
+      }
+      ],
