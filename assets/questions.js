@@ -30,3 +30,13 @@ var quiz = {
         ],
         a : 2
       },
+      {
+        q : "What function does JavaScript serve in relation to a website?",
+        o : [
+          "It adds interactivity to a website ",
+          "It's the bones",
+          "It's the skin",
+          "Nothing, it exists only to annoy programmers"
+        ],
+        a : 0
+      },
