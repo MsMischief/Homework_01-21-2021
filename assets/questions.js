@@ -20,3 +20,13 @@ var quiz = {
         ],
         a : 3
     },
+    {
+        q : "Which of these is NOT an Operator?",
+        o : [
+          "Addition",
+          "Subtraction",
+          "Chuck Norris",
+          "Equality"
+        ],
+        a : 2
+      },
