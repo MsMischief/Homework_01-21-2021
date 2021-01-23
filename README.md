@@ -13,7 +13,7 @@
    ## Deployed Website
    \
   https://msmischief.github.io/Homework_01-21-2021/
-  ![Website screenshot]()
+  ![Website screenshot](https://raw.githubusercontent.com/MsMischief/Homework_01-21-2021/main/assets/quiz.PNG)
    
  
    ## License
